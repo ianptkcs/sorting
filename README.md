@@ -132,8 +132,6 @@ Para utilizar os utilitários adicionais fornecidos em Parte_B, execute o execut
 
 Isso gerará dados de entrada e os armazenará no diretório Parte_B/cpp/input/ e gerará os arquivos .txt que são necessários para a análise dos algoritmos.
 
-Obs.: adapate o arquivo conforme suas necessidades. Ele está configurado para gerar uma pasta input com 24 Gb. Lembre de editar essas partes.
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE). Você é livre para usar, modificar e distribuir este software conforme os termos da licença.
@@ -142,10 +140,11 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Você é livre para
 
 -   **Ian Patrick da Costa Soares**
 
+# Observações
+
+Adapate o arquivo conforme suas necessidades. Ele está configurado para gerar uma pasta input com 24 Gb. Lembre de editar essas partes.
+Também lembre de editar o arquivo .tex pois ele não está completamente automático.
+
 ## Agradecimentos
 
 Agradecimentos especiais aos instrutores e colegas que forneceram orientação e suporte durante o desenvolvimento deste projeto.
-
----
-
-Espero que agora você consiga copiar o README sem problemas. Se precisar de mais alguma ajuda, é só me avisar!
